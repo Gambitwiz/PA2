@@ -1,0 +1,14 @@
+C:\Users\micha\OneDrive\Desktop\MIS 221\pa4\obj\Debug\net9.0\pa4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\MIS 221\pa4\obj\Debug\net9.0\pa4.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\MIS 221\pa4\obj\Debug\net9.0\pa4.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\MIS 221\pa4\obj\Debug\net9.0\pa4.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\MIS 221\pa4\bin\Debug\net9.0\pa4.exe
+C:\Users\micha\OneDrive\Desktop\MIS 221\pa4\bin\Debug\net9.0\pa4.deps.json
+C:\Users\micha\OneDrive\Desktop\MIS 221\pa4\bin\Debug\net9.0\pa4.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\MIS 221\pa4\bin\Debug\net9.0\pa4.dll
+C:\Users\micha\OneDrive\Desktop\MIS 221\pa4\bin\Debug\net9.0\pa4.pdb
+C:\Users\micha\OneDrive\Desktop\MIS 221\pa4\obj\Debug\net9.0\pa4.dll
+C:\Users\micha\OneDrive\Desktop\MIS 221\pa4\obj\Debug\net9.0\refint\pa4.dll
+C:\Users\micha\OneDrive\Desktop\MIS 221\pa4\obj\Debug\net9.0\pa4.pdb
+C:\Users\micha\OneDrive\Desktop\MIS 221\pa4\obj\Debug\net9.0\pa4.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\MIS 221\pa4\obj\Debug\net9.0\ref\pa4.dll
